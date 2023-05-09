@@ -27,7 +27,7 @@ components used :
 - 1 screw terminal
 - PLA for 3D printer
 - wires
-- screws
+- screws + 6 * M3
 
 files available on this repository :
 
@@ -54,3 +54,7 @@ The custom PCB has multiple location for wire :
 - **GND** connected to the (-) screw terminal 
 
 The LED pannel alimentation connector is also linked to the screw terminal (+) / (-). And the screw terminal is linked to the DC connector 
+
+# 3D prints
+
+3D prints are used to attached the PCB to the LED pannel and the shell (I used wood)
