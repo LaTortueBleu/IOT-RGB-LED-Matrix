@@ -1,0 +1,105 @@
+{
+  "uuid": "3b6126e7447b262a3591cc9062577e6c",
+  "path": "Offline/P6-%20LED%20pannel",
+  "name": "P6- LED pannel",
+  "content": "",
+  "created_at": "2023-05-09 17:32:25",
+  "updated_at": "2023-05-09 18:00:39",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "7bcb774dd0307e71f7ebe8c267ad08d4",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2de722ab8a474233af475433481e4eae": 2,
+        "15733a1a86504463867361484aac7558": 2,
+        "31024e09c52643b8b6b6dc674ca3f53d": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "1PIN DUPONT",
+          2,
+          "1PIN DUPONT",
+          "GND,VIN",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "db94cd0715ed489783aeecac8eac5bd2",
+            "uuid": "2de722ab8a474233af475433481e4eae"
+          }
+        ],
+        [
+          "Relay-Connector_2x8",
+          2,
+          "RELAY-CONNECTOR_2X8",
+          "IN,OUT",
+          {
+            "BOM_Supplier Part": "C30734",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "",
+            "puuid": "a4e1c83d2e734e8abc108118a1f9e93b",
+            "uuid": "15733a1a86504463867361484aac7558"
+          }
+        ],
+        [
+          "esp8266 nodemcu",
+          1,
+          "ESP8266NODEMCU",
+          "U2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "90218c16044c43588b4aafbdb384b7f4",
+            "uuid": "31024e09c52643b8b6b6dc674ca3f53d"
+          }
+        ]
+      ],
+      "updateTime": 1683646383,
+      "createTime": 1683646383,
+      "histories": [],
+      "created_at": "2023-05-09 17:33:03",
+      "updated_at": "2023-05-09 17:33:03"
+    },
+    {
+      "uuid": "343486774208df5b1f5c4421ff09cc95",
+      "puuid": "3b6126e7447b262a3591cc9062577e6c",
+      "title": "PCB_P6 Pannel LEd controller",
+      "filename": "PCB_P6 Pannel LEd controller.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "db94cd0715ed489783aeecac8eac5bd2": 2,
+        "a4e1c83d2e734e8abc108118a1f9e93b": 2,
+        "90218c16044c43588b4aafbdb384b7f4": 1
+      },
+      "BOM": [],
+      "updateTime": 1683648039,
+      "createTime": 1683646345,
+      "histories": [],
+      "created_at": "2023-05-09 17:32:25",
+      "updated_at": "2023-05-09 18:00:39"
+    }
+  ],
+  "sort": [],
+  "title": "P6- LED pannel",
+  "foldername": "P6- LED pannel",
+  "schfilename": "P6- LED pannel.json",
+  "schfilemtime": 1683646383353
+}
