@@ -1,7 +1,7 @@
 # IOT - RGB LED Matrix 32x16
 
 <picture>
-  <img alt="image 1" src="/images/img_1.jpg">
+  <img alt="image 1" src="/images/img_2.png">
 </picture>
 
 # Overview
@@ -36,6 +36,6 @@ files available on this repository :
 I used [Pxmatrix library](https://github.com/2dom/PxMatrix) to control the LED pannel, therefore, I didn't need to use any LED driver, I simply linked all to the ESP8266.
 
 <picture>
-  <img alt="image 1" src="/images/img_2.png">
+  <img alt="image 1" src="/images/img_1.jpg">
 </picture>
 
