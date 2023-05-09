@@ -1,4 +1,4 @@
-# IOT - RGB LED MAtrix 32x16
+# IOT - RGB LED Matrix 32x16
 
 <picture>
   <img alt="image 1" src="/images/img_1.jpg">
