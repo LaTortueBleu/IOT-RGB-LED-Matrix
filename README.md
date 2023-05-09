@@ -21,6 +21,8 @@ components used :
 - custom PCB
 - female DC Connectors
 - Male + Female socket row strip
+- 8x2 IDC connector wire female to female
+- 5 dupont wire female to female
 - heat Shrink Tubing
 - PLA for 3D printer
 - wires
