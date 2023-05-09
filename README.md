@@ -1,5 +1,9 @@
 # IOT - RGB LED MAtrix 32x16
 
+<picture>
+  <img alt="image 1" src="/images/img_1.jpg">
+</picture>
+
 # Overview
 
 The purpose of this project is to create a LED pannel IOT to display text and low resolution images. 
@@ -30,4 +34,8 @@ files available on this repository :
 # 
 
 I used [Pxmatrix library](https://github.com/2dom/PxMatrix) to control the LED pannel, therefore, I didn't need to use any LED driver, I simply linked all to the ESP8266.
+
+<picture>
+  <img alt="image 1" src="/images/img_2.png">
+</picture>
 
